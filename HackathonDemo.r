@@ -1,7 +1,7 @@
 #------------------------------------------------------
 # Athenahacks: Intro to ML, AI, and Predictive Analysis (Neudesic)
 #
-# Author: Yueying Li and Karla Benefiel     
+# Author: Yueying Li  
 #         February 24, 2018
 #
 # This code predicts if a customer is likely to make a purchase and if they do, how much will they buy.
